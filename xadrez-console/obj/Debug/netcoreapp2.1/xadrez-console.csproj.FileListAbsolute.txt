@@ -1,0 +1,11 @@
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.deps.json
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.runtimeconfig.json
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.runtimeconfig.dev.json
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.dll
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.pdb
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.csprojAssemblyReference.cache
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.AssemblyInfo.cs
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.dll
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.pdb
