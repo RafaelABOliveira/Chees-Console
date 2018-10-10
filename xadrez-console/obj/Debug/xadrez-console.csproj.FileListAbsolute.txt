@@ -1,0 +1,9 @@
+C:\Users\rafael.brito\Downloads\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe.config
+C:\Users\rafael.brito\Downloads\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe
+C:\Users\rafael.brito\Downloads\xadrez-console-master\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.pdb
+C:\Users\rafael.brito\Downloads\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.csprojAssemblyReference.cache
+C:\Users\rafael.brito\Downloads\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\rafael.brito\Downloads\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.exe
+C:\Users\rafael.brito\Downloads\xadrez-console-master\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.pdb
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+C:\Users\rafael.brito\source\repos\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
